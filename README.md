@@ -4,6 +4,8 @@ O objetivo da criação do analisador léxico em questão é auxiliar no estudo 
 
 Para testá-lo, basta compilar o arquivo 'identificador_lexico.c', colocar o que for ser analisado dentro do arquivo 'entrada.txt' e executar o programa.
 
-Exemplo de análise lexica realizada nesse compilador:
-  
-![Exemplo](exemplo.png)
+Exemplo de análise lexica realizada nesse analisador:
+ 
+<p align="center">
+  <img src="exemplo.png">
+</p>
